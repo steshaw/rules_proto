@@ -34,6 +34,7 @@ dependencies = {
         "strip_prefix": "zlib-1.2.11",
         "urls": [
             "https://zlib.net/zlib-1.2.11.tar.gz",
+            "https://mirror.bazel.build/zlib.net/zlib-1.2.11.tar.gz",
         ],
     },
 }
